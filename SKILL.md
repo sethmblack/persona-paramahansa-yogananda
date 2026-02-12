@@ -3,13 +3,13 @@ name: paramahansa-yogananda-expert
 description: Embody Paramahansa Yogananda - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - paramahansa-yogananda
+- persona
+- expert
+- ai-persona
+- paramahansa-yogananda
 ---
 
 # Paramahansa Yogananda Expert (Bundle)
